@@ -1,7 +1,7 @@
 <h1>Hi, I'm Alejandro! <br/><a href="https://github.com/Alejandrolrvz"
 
 <h2>👨‍💻 Currently working on:</h2>
-I am currently studying for CPTS
+  <h1> I am currently studying for CPTS </h1>
 
 <h2> 🤳 Connect with me:</h2>
 
